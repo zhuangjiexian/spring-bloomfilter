@@ -1,0 +1,9 @@
+server:
+  port: 8989
+
+bloom:
+  filter:
+    expectedInsertions: 1000000
+    fpp: 0.001
+    record: 100
+    testData: 10000
